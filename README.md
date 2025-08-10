@@ -1,2 +1,2 @@
 # list-of--books-using-Nodejs-and-express
-BULID simple REST API endpoints for crud operations on books
+iam creating one sample api keys using express and node.js in this code iam using get, post,puty,deelete api's for the above api's using for get- fetching the data to server, post- sending the data to do the data to the server, delete- remove the data for server in this code book data for the temporary and that data to do the get,post,put and delete methods write code in vscode and run in chrome.first download the express using ''instal npm express''  command in terminal after the we run in vscode the key passed to chrome give some commands to add the api to get the ouput
